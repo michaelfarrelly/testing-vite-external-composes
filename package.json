@@ -1,6 +1,6 @@
 {
     "name": "@mikefarrelly/testing-vite-external-composes",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "author": "Michael Farrelly (https://github.com/michaelfarrelly)",
     "main": "./src/index.ts",
     "dependencies": {

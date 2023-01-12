@@ -1,2 +1,2 @@
-import * from "./Page1";
-import * from "./Page2";
+export * from "./Page1";
+export * from "./Page2";

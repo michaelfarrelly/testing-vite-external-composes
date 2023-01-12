@@ -6,3 +6,8 @@
     composes: text from "./Page1.module.css";
     color: black;
 }
+
+.varText {
+    composes: text from "./Page1.module.css";
+    color: var(--page2-text-color);
+}

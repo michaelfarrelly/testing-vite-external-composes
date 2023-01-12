@@ -6,3 +6,8 @@
     color: red;
     text-decoration: line-through;
 }
+
+.varText {
+    color: var(--page1-text-color);
+    text-decoration: underline;
+}

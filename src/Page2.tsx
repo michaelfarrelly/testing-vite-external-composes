@@ -15,6 +15,16 @@ export const Page2: React.FC<{}> = () => {
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Maecenas gravida aliquam mauris.
             </div>
+            <div className={styles.varText}>
+                Integer finibus quam quam. Lorem ipsum dolor sit amet,
+                consectetur adipiscing elit. Proin eleifend et erat nec
+                fringilla. Cras placerat malesuada felis a viverra. Quisque
+                laoreet facilisis gravida. Vivamus pharetra finibus tortor at
+                faucibus. Donec convallis nisl nec augue bibendum maximus.
+                Praesent hendrerit urna mi, eget bibendum ipsum vestibulum eget.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Maecenas gravida aliquam mauris.
+            </div>
         </div>
     );
 };

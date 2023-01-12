@@ -1,26 +1,26 @@
 {
-  "name": "@michaelfarrelly/testing-vite-external-composes",
-  "version": "0.0.1",
-  "author": "Michael Farrelly (https://github.com/michaelfarrelly)",
-  "main": "./src/index.ts",
-  "dependencies": {
-    "@types/react": "^18.0.0",
-    "@types/react-dom": "^18.0.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
-  },
-  "description": "",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/michaelfarrelly/testing-vite-external-composes.git"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/michaelfarrelly/testing-vite-external-composes/issues"
-  },
-  "homepage": "https://github.com/michaelfarrelly/testing-vite-external-composes#readme"
+    "name": "@mikefarrelly/testing-vite-external-composes",
+    "version": "0.0.2",
+    "author": "Michael Farrelly (https://github.com/michaelfarrelly)",
+    "main": "./src/index.ts",
+    "dependencies": {
+        "@types/react": "^18.0.0",
+        "@types/react-dom": "^18.0.0",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
+    },
+    "description": "",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/michaelfarrelly/testing-vite-external-composes.git"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/michaelfarrelly/testing-vite-external-composes/issues"
+    },
+    "homepage": "https://github.com/michaelfarrelly/testing-vite-external-composes#readme"
 }

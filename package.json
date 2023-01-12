@@ -1,5 +1,6 @@
 {
     "name": "testing-vite-external-composes",
+    "version": "0.0.1",
     "author": {
         "name": "Michael Farrelly",
         "url": "https://github.com/michaelfarrelly"
